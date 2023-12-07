@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sogetel-telco360.bundle.scp.css",
+      "PackagePath": "staticwebassets\\sogetel-telco360.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal.html",
+      "PackagePath": "staticwebassets\\modal.html"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\2.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\3.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\4.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\5.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\6.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\667090843876081",
+      "PackagePath": "staticwebassets\\modal_files"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\7.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\8.jpg",
+      "PackagePath": "staticwebassets\\modal_files\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\analytics.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\analytics.js.download"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\coreui.bundle.min.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\coreui.bundle.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\examples.css",
+      "PackagePath": "staticwebassets\\modal_files\\examples.css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\fbevents.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\fbevents.js.download"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\gtm.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\gtm.js.download"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\js",
+      "PackagePath": "staticwebassets\\modal_files"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\popovers.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\popovers.js.download"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\simplebar(1).css",
+      "PackagePath": "staticwebassets\\modal_files\\simplebar(1).css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\simplebar.css",
+      "PackagePath": "staticwebassets\\modal_files\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\simplebar.min.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\simplebar.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\style.css",
+      "PackagePath": "staticwebassets\\modal_files\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\wwwroot\\modal_files\\tooltips.js.download",
+      "PackagePath": "staticwebassets\\modal_files\\tooltips.js.download"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sogetel-telco360.props",
+      "PackagePath": "build\\sogetel-telco360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.sogetel-telco360.props",
+      "PackagePath": "buildMultiTargeting\\sogetel-telco360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.sogetel-telco360.props",
+      "PackagePath": "buildTransitive\\sogetel-telco360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.sogetel-telco360.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
