@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sogetel-telco360")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86d8ad0ac3eff2f3e4c29bddef959f4c0e23b184")]
 [assembly: System.Reflection.AssemblyProductAttribute("sogetel-telco360")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sogetel-telco360")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

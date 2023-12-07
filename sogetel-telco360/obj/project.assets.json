@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\sogetel-telco360.csproj",
+      "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\prototype\\sogetel-telco360\\sogetel-telco360.csproj",
       "projectName": "sogetel-telco360",
-      "projectPath": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\sogetel-telco360.csproj",
+      "projectPath": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\prototype\\sogetel-telco360\\sogetel-telco360.csproj",
       "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\OneDrive\\Desktop\\sogetel-telco360\\obj\\",
+      "outputPath": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\prototype\\sogetel-telco360\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
